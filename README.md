@@ -1,1 +1,3 @@
-0.35231168451267925
+My GitHub Contributions Calendar
+================================
+This repository was generated with [GitHub Contributions](https://github.com/IonicaBizau/github-contributions) generator. Thanks, [@IonicaBizau](https://github.com/IonicaBizau).
